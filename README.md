@@ -35,7 +35,7 @@ Accounting-Software/
 ├── main.py                   # Main entry point for running the software
 │
 ├── README.md                  # Project documentation
-└── LICENSE                   # License file (optional)
+└── LICENSE                   # MIT Licence
 ```
 
 ## 🚀 How to Run the Program
